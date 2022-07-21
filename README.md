@@ -1,2 +1,2 @@
-# morse-decoder
-A morse decoder
+# Morse-code
+Morse code decode using Ruby
